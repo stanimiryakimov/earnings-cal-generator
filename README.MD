@@ -11,5 +11,5 @@ Use `pip3 install yahoo_earnings_calendar` to install this package
 
 # How to Use
 1. Go to [Yahoo Earnings Page](https://github.com/wenboyu2/yahoo-earnings-calendar/) and search for a company in the search. Take the ticker(abbreviation) and paste in `list_of_tickers` variable
-2. Change DAY_AHEAD constant to the desired period
+2. Change DAYS_AHEAD constant to the desired period
 3. Run the script. A Calendar.ics file will be generated automatically which then you can import in any modern calendar app. 
